@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m Razan! I'm a software developer and enthusiastic problem-solver, interested in data science, machine learning/AI, and backend web development.
-- 📈 I'm currently studying Computer Science, with a concentration in Big Data Systems. 
+- 🔭 I’m Razan! I'm a software developer and enthusiastic problem-solver, with interests in data science, machine learning/AI, and backend web development.
+- 📈 I'm currently studying Computer Science, with a concentration in Big Data Systems.
+- 🔨 Technical skills: HTML, CSS, Javascript, React, Express.js, Node.js Python, Matplotlib, NumPy, Java, C  
 - 📫 How to reach me: moha5150@mylaurier.ca
 
