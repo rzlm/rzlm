@@ -5,4 +5,5 @@
 - 📈 I'm currently studying Computer Science, with a concentration in Big Data Systems.
 - 🔨 Technical skills: HTML, CSS, Javascript, React, Express.js, Node.js Python, Matplotlib, NumPy, Java, C  
 - 📫 How to reach me: moha5150@mylaurier.ca
+- 😁 Learn more about my work: https://rzlm.github.io/razan/ 
 
