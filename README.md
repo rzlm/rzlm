@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Razan, I’m a CS student passionate about building innovative solutions with code that create real-world impact.
-- I'm interested in software engineering, full-stack development, and design - im currently working on exciting projects!
+- I'm interested in software engineering
 - Check out my portfolio
 <!--
 **rzlm/rzlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
