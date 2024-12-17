@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Razan, I’m a 3rd Computer Science student specializing in big data systems, passionate about building innovative solutions with code that create real-world impact. I'm interested in software engineering
-
+## Tools and technologies
 - Languages: Java, JavaScript, TypeScript, Python, C, HTML/CSS, SQL
 - Frameworks: React.js, Node.js, Next.js
 - Developer tools: Git, Postman  
