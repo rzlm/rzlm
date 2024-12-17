@@ -1,6 +1,9 @@
 ## Hi there 👋
-- My name is Razan, I’m a CS student passionate about building innovative solutions with code that create real-world impact.
-- I'm interested in software engineering
+- My name is Razan, I’m a 3rd Computer Science student specializing in big data systems, passionate about building innovative solutions with code that create real-world impact. I'm interested in software engineering
+
+- Languages: Java, JavaScript, TypeScript, Python, C, HTML/CSS, SQL
+- Frameworks: React.js, Node.js, Next.js
+- Developer tools: Git, Postman  
 - Check out my portfolio
 <!--
 **rzlm/rzlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
